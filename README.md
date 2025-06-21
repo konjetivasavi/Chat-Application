@@ -16,3 +16,6 @@ On the server side (server.js), we leverage Express to serve the static front-en
 Overall, this implementation is a classic real-time chat demo that illustrates the fundamentals of websockets using Socket.IO. It requires very little setup and is highly approachable even for beginners who want to understand the core concepts of persistent client–server communication, event-driven architecture, and handling dynamic user input. The front end and back end together highlight how small, modular pieces of code can quickly add up to a functioning app where all chat participants see each message as soon as it is sent. Being lightweight and dependency-friendly, this pattern can also scale into more sophisticated chat apps with features like user authentication, rooms, file sharing, or emojis. Because all messages flow through the central server, it’s also straightforward to add features such as moderation, logging, or message persistence. Thus, this simple yet full example lays the groundwork for a broad range of real-time collaborative and interactive web applications, demonstrating the flexibility of JavaScript on both the client and server sides.
  
 Output:
+![Image](https://github.com/user-attachments/assets/a8b415ad-f61e-4448-9c96-3457723d7efd)
+
+![Image](https://github.com/user-attachments/assets/5b873644-7cf8-4854-954a-7500b672e8e6)
